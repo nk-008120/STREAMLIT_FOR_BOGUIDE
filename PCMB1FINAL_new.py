@@ -465,11 +465,11 @@ with tabs[0]:
             "Photorespiration in C3 plants is the principal reason their temperature optimum is lower than that of C4 plants.",
             "Under current global warming projections (+2–4°C by 2100), C4 crops such as maize are predicted to out-compete C3 weeds at all latitudes, including boreal zones."
         ],
-        correct_answers=[False, True, True, False],
+        correct_answers=[False, False, True, False],
         explanation="""
 **Statement 1 – FALSE:** At 25°C, C3 is at its optimum (A ≈ 28 µmol m⁻² s⁻¹), while C4 is still below its optimum of 35°C, yielding a lower rate (≈ 22 µmol m⁻² s⁻¹). The graph clearly shows C3 > C4 at 25°C.
 
-**Statement 2 – TRUE:** By equating the two model functions, the crossover occurs near 29–31°C. Visually on the graph, the curves intersect in this range. This is why C4 grasses dominate warm climates (>30°C growing season means) while C3 plants dominate temperate zones.
+**Statement 2 – FALSE:** By equating the two model functions, the crossover occurs way before 29–31°C. Visually on the graph, the curves intersect in this range. This is why C4 grasses dominate warm climates (>30°C growing season means) while C3 plants dominate temperate zones.
 
 **Statement 3 – TRUE:** At elevated temperatures, Rubisco's oxygenase activity (photorespiration) increases faster than carboxylase activity, decreasing net CO₂ fixation. The C4-CCM keeps CO₂ concentration around Rubisco high (≈ 2000 µmol mol⁻¹), suppressing O₂ competition entirely, allowing the temperature optimum to shift upward. This is a core concept from the Farquhar–von Caemmerer–Berry (1980) model.
 
